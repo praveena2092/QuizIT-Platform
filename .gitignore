@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.env/
+.venv/
+venv/
+
+# Local database and generated exports
+backend/instance/
+*.db
+*.sqlite3
+backend/static/*.csv
+
+# Node
+node_modules/
+dist/
+
+# Celery / logs
+celerybeat-schedule*
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
