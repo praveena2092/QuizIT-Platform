@@ -2,7 +2,7 @@
 
 A multi-user quiz and exam-preparation web app with two roles, **Admin** and **User**.
 Admins organise content as Subject → Chapter → Quiz → Question; users take quizzes
-and track their performance. Built as the **MAD-II** project for the IIT Madras BS Degree program.
+and track their performance. 
 
 ## Features
 
@@ -98,7 +98,7 @@ Seeded automatically on first run (development only):
 
 ## Author
 
-Praveena N (22f3001454) – IIT Madras BS Degree
+Praveena N 
 
 ## License
 
